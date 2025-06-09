@@ -18,7 +18,7 @@ In a world where technology evolves by the second, I believe curiosity and funda
 Let’s connect and create something awesome!
 ---
 
-[![Linkedin: Prem Kumar](https://img.shields.io/badge/-Prem%20Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/premkumar30)](https://www.linkedin.com/in/shawan-mandal)
+[![Linkedin: Prem Kumar](https://img.shields.io/badge/-Prem%20Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/premkumar30)](https://www.linkedin.com/in/premkumar30)
 [![Email: Prem Kumar](https://img.shields.io/badge/-Prem%20Kumar-red?style=flat-square&logo=gmail&logoColor=white)](mailto:premcc6750@gmail.com)
 [![Twitter: prem_kumar30](https://img.shields.io/twitter/follow/prem_kumar30?style=social)](https://twitter.com/prem_kumar30)
 
