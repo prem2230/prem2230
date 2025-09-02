@@ -26,7 +26,7 @@ Let’s connect and create something awesome!
 ### Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,redux,tailwind,bootstrap,materialui,redis" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,redux,tailwind,bootstrap,materialui,jest" />
   <img src="https://skillicons.dev/icons?i=git,github,vscode,gcp" />
 </p>
 
